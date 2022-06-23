@@ -20,6 +20,4 @@ The project currently features pages to create an account, login, deposit, withd
 MIT
 
 
-## Live Demo:
 
-https://aws000bucket.s3.us-west-1.amazonaws.com/github-portfolio-project-front-end-banking-app/index.html#/
